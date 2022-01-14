@@ -1,10 +1,10 @@
 # Trem-infinito
-projeto de logica de programação
+Projeto de logica de programação;
 
-Projeto realizado em python para a materia 'logica de programação' do 1º periodo, curso analise e desenvolvimento de sistemas pelo instituto federal de sergipe
+Projeto realizado em python para a materia 'logica de programação' do 1º periodo, curso analise e desenvolvimento de sistemas pelo instituto federal de sergipe;
 
 ## Objetivo
- - Ultilizar o que foi estudado em aula, como: listas, dicionarios, laços de repetição, funções.
+ - Ultilizar o que foi estudado em aula, como: listas, dicionarios, laços de repetição, funções;
 
 ## Descrição
 
